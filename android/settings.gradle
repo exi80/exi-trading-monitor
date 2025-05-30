@@ -1,3 +1,0 @@
-
-include ':app'
-rootProject.name = 'exi_trading_monitor'
