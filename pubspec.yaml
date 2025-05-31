@@ -1,0 +1,19 @@
+name: trading_monitor
+description: A new Trading Monitor App.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.4.1
+  firebase_database: ^10.2.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
